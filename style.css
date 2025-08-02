@@ -1,0 +1,32 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: blanchedalmond;
+  height: 90vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hello {
+  color: rgb(86, 54, 6);
+  font-weight: bold;
+}
+#get {
+  color: rgb(86, 54, 6);
+  font-weight: bold;
+}
+.getbox-inside {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.butt {
+  padding: 10px;
+  border-color: rgb(86, 54, 6);
+  border-radius: 20%;
+  color: rgb(86, 54, 6);
+  background-color: rgb(232, 230, 226);
+}
+.butt:hover {
+  background-color: rgb(255, 153, 0);
+}
